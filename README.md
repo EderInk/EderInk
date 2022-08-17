@@ -1,10 +1,7 @@
-# Hola, mi nombre es Eder Jossimar Ramírez León 👋
+# Hola, mi nombre es Eder Ramírez 👋
 ### Mi experiencia profesional comenzó hace 4 años.
 
-En el 2018 tuve la oportunidad de participar como becario en el área de testing manual, durante mi tiempo como becario el ser autodidacta me llevó a 
-descubrir el mundo de las pruebas automatizadas, por lo que comencé a estudiar y tomar curso, posteriormente realicé e implementé un Framework desde 0 
-para la automatización del llenado de formatos electrónicos en la empresa donde me encontraba. Mi gusto por la programación me hizo dar un nuevo salto 
-al área de desarrollo de aplicaciones móviles Android.
+Actualmente soy desarrollador Android, en el 2018 tuve la oportunidad de participar como becario en el área de testing manual, durante mi tiempo como becario el ser autodidacta me llevó a descubrir el mundo de las pruebas automatizadas, por lo que comencé a estudiar y tomar curso, posteriormente realicé e implementé un Framework desde 0 para el llenado automatizado de formatos electrónicos en la empresa donde me encontraba. Mi gusto por la programación me hizo dar un nuevo salto, esta vez al área de desarrollo de aplicaciones móviles Android.
 
 ## Tengo experiencia en tecnologías:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
