@@ -20,4 +20,4 @@ Entre otras tecnologías más.
 
 ## Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eder_Jossimar_Ramírez_León-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/eder-jossimar-ramírez-león)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eder_Jossimar_Ramírez_León-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/eder-jossimar-ramírez-león)
